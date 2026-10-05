@@ -1,0 +1,11 @@
+D:\вижуад\Курсач 4 курс\Курсач 4 курс\bin\Debug\Курсач 4 курс.exe.config
+D:\вижуад\Курсач 4 курс\Курсач 4 курс\bin\Debug\Курсач 4 курс.exe
+D:\вижуад\Курсач 4 курс\Курсач 4 курс\bin\Debug\Курсач 4 курс.pdb
+D:\вижуад\Курсач 4 курс\Курсач 4 курс\obj\Debug\Курсач 4 курс.csproj.AssemblyReference.cache
+D:\вижуад\Курсач 4 курс\Курсач 4 курс\obj\Debug\Курсач_4_курс.Form1.resources
+D:\вижуад\Курсач 4 курс\Курсач 4 курс\obj\Debug\Курсач_4_курс.Properties.Resources.resources
+D:\вижуад\Курсач 4 курс\Курсач 4 курс\obj\Debug\Курсач 4 курс.csproj.GenerateResource.cache
+D:\вижуад\Курсач 4 курс\Курсач 4 курс\obj\Debug\Курсач 4 курс.csproj.CoreCompileInputs.cache
+D:\вижуад\Курсач 4 курс\Курсач 4 курс\obj\Debug\Курсач 4 курс.exe
+D:\вижуад\Курсач 4 курс\Курсач 4 курс\obj\Debug\Курсач 4 курс.pdb
+D:\вижуад\Курсач 4 курс\Курсач 4 курс\obj\Debug\Курсач 4 курс.exe.config
